@@ -41,7 +41,7 @@ The visualization helps compare monthly sales and profit patterns and identify c
 
 ## Live Visualization
 
-[View Interactive Visualization on Tableau Public]([[https://public.tableau.com/app/profile/abdur.rahim5381/viz/SuperstoreDualChart/Monthly%20Sales%20vs%20Profit](https://public.tableau.com/app/profile/abdur.rahim5381/viz/SuperstoreDualChart/Sheet1)]
+[View Interactive Visualization on Tableau Public](https://public.tableau.com/app/profile/abdur.rahim5381/viz/SuperstoreDualChart/Sheet1)
 
 ## Project Type
 
